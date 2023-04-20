@@ -4,7 +4,7 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 import '../provider/weather_provider.dart';
 import '../widgets/weather_info_widget.dart';
-import '../widgets/fadeIn.dart';
+import '../widgets/fade_in_widget.dart';
 import '../widgets/hourly_forecast_widget.dart';
 import '../widgets/location_error_widget.dart';
 import '../widgets/main_weather_widget.dart';
